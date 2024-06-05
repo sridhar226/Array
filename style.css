@@ -99,4 +99,12 @@ p{
      font-size: 50px ;
      font-weight: bold;
 }
+@media (max-width:576px){
+
+    button{
+        margin: 5px 0 !important;
+    }
+
+
+}
 
